@@ -1,0 +1,77 @@
+/* ===== Govt / NBR Theme ===== */
+
+body {
+    font-family: "Shonar Bangla", "Noto Serif Bengali", "Kalpurush", "SolaimanLipi", serif;
+    background-color: #f4f7f6;
+}
+
+/* Card */
+.card {
+    border: 1px solid #cfded9;
+    border-radius: 8px;
+}
+
+/* Header title */
+.page-title {
+    color: #006a4e;
+    font-weight: 700;
+}
+
+/* Input */
+.form-control {
+    border: 1px solid #cfded9;
+}
+
+.form-control:focus {
+    border-color: #006a4e;
+    box-shadow: 0 0 0 0.15rem rgba(0, 106, 78, 0.25);
+}
+
+/* Table */
+.table {
+    border-color: #cfded9;
+}
+
+.table thead {
+    background-color: #e6f2ee;
+    text-align: center;
+}
+
+.table thead th {
+    color: #004c3f;
+    font-weight: 600;
+}
+
+.table tbody td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+/* Govt button style (future use) */
+.btn-govt {
+    background-color: #006a4e;
+    color: #ffffff;
+    border-radius: 6px;
+}
+
+.btn-govt:hover {
+    background-color: #004c3f;
+    color: #ffffff;
+}
+
+/* Mobile card */
+.result-card {
+    background-color: #ffffff;
+    border: 1px solid #cfded9;
+    border-left: 5px solid #006a4e;
+    border-radius: 6px;
+}
+
+.row-item {
+    margin-bottom: 6px;
+}
+
+.row-item span {
+    color: #004c3f;
+    font-weight: 600;
+}
