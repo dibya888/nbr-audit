@@ -44,3 +44,12 @@
    - Mobile‑এ → সুন্দর Card‑এ দেখায়
 4. সমস্ত সংখ্যা **স্বয়ংক্রিয়ভাবে বাংলা (০–৯)** তে রূপান্তরিত হয়।
 
+---
+
+## 📄 License
+
+
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for details.
+
+
