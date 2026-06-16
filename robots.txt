@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dibya888.github.io/nbr-audit/sitemap.xml
